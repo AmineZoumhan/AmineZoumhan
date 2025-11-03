@@ -1,46 +1,45 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=27&duration=4000&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Mohamed+Amine+Zoumhan;Cybersecurity+Engineer+Student;SIEM+%7C+WAF+%7C+Linux+Security;Secure+Systems+%7C+Web+Security+%7C+OWASP;Building+%2F+Breaking+%2F+Securing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3500&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=Mohamed+Amine+Zouhhan;Cybersecurity+Engineering+Student;Wazuh+SIEM+%7C+ModSecurity+%7C+Cloudflare+WAF;Web+Security+%7C+OWASP+%7C+Linux;Learning+%7C+Building+%7C+Securing" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👋 Hello, I'm **Mohamed Amine Zoumhan**
+## 👋 Hello, I'm **Mohamed Amine Zouhhan**
 
-Cybersecurity Engineering student at the **International University of Rabat (UIR)** passionate about **web security, network defense, SIEM deployment, and cloud security**.
+I am a **Cybersecurity Engineering student** at the **International University of Rabat (UIR)** passionate about securing systems, detecting cyber threats, and building secure digital environments.
 
-I specialize in building secure environments, detecting attacks, and applying cybersecurity best-practices aligned with industry frameworks like **OWASP & MITRE**.
+I enjoy working on **web security, SIEM deployment, Linux systems**, and learning modern cloud-based security practices.
 
-> *"Cybersecurity is not only about defense — it’s about anticipating threats and engineering resilience."*
+> *"Cybersecurity is about anticipating, defending, and continuously improving."*
 
 ---
 
 ## 🎯 Objective
 
-To join a **Security Operations Center (SOC)** or cybersecurity engineering team where I can contribute to:
+To join a **Cybersecurity / SOC team** where I can apply and grow my skills in:
 
-- ✅ SIEM deployment & monitoring  
-- ✅ Web & application security  
-- ✅ Cloud security & WAF protection  
-- ✅ System hardening & automation  
-
-While continuing to develop deep cybersecurity skills through real-world challenges.
+- ✅ SIEM monitoring & threat detection  
+- ✅ Web application security (OWASP)  
+- ✅ WAF & Linux server hardening  
+- ✅ Incident investigation & log analysis  
+- ✅ Cloud-based security controls  
 
 ---
 
-## ⚙️ Technical Expertise
+## ⚙️ Technical Skills
 
 | Domain | Skills |
 |--------|--------|
-🛡️ **Cyber Defense** | Wazuh SIEM, Cloudflare WAF, ModSecurity (Nginx)  
-🌐 **Web Application Security** | OWASP Top 10, secure authentication, session handling  
-📡 **Network & Host Security** | Linux security, SSH, firewall basics  
-📊 **Threat Monitoring** | Log analysis, alerting, dashboards  
-💻 **Frontend Development** | Vue.js, JavaScript, responsive UI  
-🧠 **Other Skills** | Git, Agile teamwork, API basics  
+🛡️ **Security Tools** | Wazuh SIEM, ModSecurity (Nginx), Cloudflare WAF  
+🌐 **Web Security** | OWASP Top 10, secure authentication, request filtering  
+🐧 **System & Network** | Linux admin, SSH, firewall basics  
+📡 **Threat Monitoring** | Log inspection, alerts tuning, dashboards  
+💻 **Web Development** | Vue.js, REST API basics, UI/UX fundamentals  
+🧰 **Other** | Git, Agile methodology, collaboration  
 
 ---
 
-## 🧰 Tools & Technologies
+## 🧰 Tools & Stack
 
 **Security & Monitoring**
 
@@ -59,23 +58,42 @@ While continuing to develop deep cybersecurity skills through real-world challen
 
 ## 💼 Experience
 
-### 🛡️ **Cybersecurity Intern — Devoteam Morocco** *(Jun 2025 – Jul 2025)*  
-- Designed and deployed security environment for web attack detection  
-- Implemented **Wazuh SIEM + ModSecurity (Nginx) + Cloudflare WAF**  
-- Simulated real attacks (SQL Injection, brute force) and monitored logs  
-- Built dashboards & alerts, applied OWASP security controls  
+### 🛡️ **Cybersecurity Intern — Devoteam Morocco**  
+📍 Rabat, Morocco  
+📅 **June 2025 – July 2025**
 
-### 💻 **Frontend Intern — Devox** *(Jun 2023 – Jul 2023)*  
-- Developed responsive web interfaces using **Vue.js**  
-- Worked in Agile environment and collaborated with engineering teams  
-- Gained strong understanding of **UI/UX and secure frontend practices**  
+- Designed and deployed a security environment to detect web attacks  
+- Implemented **Wazuh SIEM, ModSecurity (Nginx), Cloudflare WAF**  
+- Simulated SQL injection and network attacks  
+- Built dashboards, tuned alerts & applied OWASP security controls  
+
+---
+
+### 🛡️ **Cybersecurity Intern — Devoteam Morocco** *(2nd Internship)*  
+📍 Rabat, Morocco  
+📅 **June 2024 – August 2024**
+
+- Worked in cybersecurity team focusing on log analysis & threat insights  
+- Learned and practiced **log monitoring, incident detection, response workflows**  
+- Strengthened knowledge of **SIEM operations & SOC methodologies**  
+- Gained hands-on exposure to real-world enterprise security practices  
+
+---
+
+### 💻 **Frontend Developer Intern — Devox**  
+📍 Rabat, Morocco  
+📅 **June 2023 – July 2023**
+
+- Developed real-world UI features using **Vue.js**  
+- Improved UI/UX, collaborated in Agile environment  
+- Strengthened frontend development & teamwork skills  
 
 ---
 
 ## 🎓 Education
 
 **Cybersecurity Engineering (B.Eng)**  
-Université Internationale de Rabat (UIR)  
+International University of Rabat (UIR)  
 📅 *2021 – 2026*
 
 ---
@@ -84,15 +102,15 @@ Université Internationale de Rabat (UIR)
 
 | Certification | Date |
 |--------------|------|
-Virtualization & System Environments | 2025  
-Certified Ethical Hacker (CEH) | 2025  
+Virtualization & System Environments | October 2025  
+Certified Ethical Hacker (CEH) | February 2025  
 
 ---
 
 ## 🌍 Languages
 
-- 🇫🇷 French — Fluent  
 - 🇬🇧 English — Fluent  
+- 🇫🇷 French — Fluent  
 - 🇲🇦 Arabic — Native  
 
 ---
@@ -115,10 +133,12 @@ Certified Ethical Hacker (CEH) | 2025
 ## 📫 Contact
 
 📍 Rabat, Morocco  
-📧 amine.zouhhan10@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/amine-zouhhan-272965370  
+📧 **amine.zouhhan10@gmail.com**  
+🔗 **LinkedIn:** https://linkedin.com/in/amine-zouhhan-272965370  
 
 ---
 
-<p align="center"><i>“Always learning, always securing.”</i></p>
+<p align="center">
+  <i>“Always learning, always securing.”</i>
+</p>
 
