@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3500&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=Mohamed+Amine+Zouhhan;Cybersecurity+Engineering+Student;Wazuh+SIEM+%7C+ModSecurity+%7C+Cloudflare+WAF;Web+Security+%7C+OWASP+%7C+Linux;Learning+%7C+Building+%7C+Securing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3500&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=Mohamed+Amine+Zoumhan;Cybersecurity+Engineering+Student;Wazuh+SIEM+%7C+ModSecurity+%7C+Cloudflare+WAF;Web+Security+%7C+OWASP+%7C+Linux;Learning+%7C+Building+%7C+Securing" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👋 Hello, I'm **Mohamed Amine Zouhhan**
+## 👋 Hello, I'm **Mohamed Amine Zoumhan**
 
 I am a **Cybersecurity Engineering student** at the **International University of Rabat (UIR)** passionate about securing systems, detecting cyber threats, and building secure digital environments.
 
@@ -133,8 +133,8 @@ Certified Ethical Hacker (CEH) | February 2025
 ## 📫 Contact
 
 📍 Rabat, Morocco  
-📧 **amine.zouhhan10@gmail.com**  
-🔗 **LinkedIn:** https://linkedin.com/in/amine-zouhhan-272965370  
+📧 **amine.zoumhan10@gmail.com**  
+🔗 **LinkedIn:** https://linkedin.com/in/amine-zoumhan-272965370  
 
 ---
 
